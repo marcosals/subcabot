@@ -1,0 +1,3 @@
+IBM Code Engine es una plataforma serverless completamente gestionada que ejecuta tus cargas de trabajo basadas en contenedores, aplicaciones o funciones.
+Permite a los desarrolladores centrarse en escribir código en lugar de gestionar la infraestructura.
+Soporta el escalado a cero, lo que significa que no pagas cuando tu aplicación no está en uso.

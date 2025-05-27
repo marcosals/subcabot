@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+chromadb
+sentence-transformers
+pydantic
+python-dotenv
+ibm-watsonx-ai
+langchain-text-splitters

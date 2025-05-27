@@ -1,0 +1,3 @@
+Watsonx.ai es la plataforma de estudio de IA de próxima generación de IBM para constructores de IA.
+Permite a las empresas entrenar, validar, ajustar y desplegar modelos de IA, incluyendo modelos fundacionales y de machine learning, con facilidad.
+Proporciona acceso a una variedad de modelos de IBM y de código abierto, así como herramientas para la gobernanza de la IA.
